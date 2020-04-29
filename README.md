@@ -1,4 +1,4 @@
 # Roran PSD to Web
-A Website made by a Roran PSD.
+Roran PSD to website.
 
-https://khairunnisa10.github.io/Roran-PSD-to-Website/
+Published Link: https://khairunnisa10.github.io/Roran-PSD-to-Web/
